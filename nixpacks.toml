@@ -1,8 +1,0 @@
-[phases.restore]
-cmds = ["dotnet restore Api/Api.csproj"]
-
-[phases.build]
-cmds = ["dotnet build Api/Api.csproj -c Release -o out"]
-
-[start]
-cmd = "dotnet out/Api.dll --urls http://0.0.0.0:$PORT"
