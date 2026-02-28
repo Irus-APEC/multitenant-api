@@ -21,11 +21,11 @@ public class AppDbContext : DbContext
 {
     var tenantId = _tenantProvider.GetTenantId();
 
-    // Filtro global MultiTenancy
+   
     modelBuilder.Entity<Invoice>()
         .HasQueryFilter(x => x.TenantId == tenantId);
 
-    // Precisión para decimal (evita truncamientos en SQL Server)
+    
     modelBuilder.Entity<Invoice>()
         .Property(x => x.Total)
         .HasPrecision(18, 2);
