@@ -1,0 +1,5 @@
+[build]
+builder = "NIXPACKS"
+
+[deploy]
+startCommand = "dotnet run --project Api/Api.csproj --urls http://0.0.0.0:$PORT"
