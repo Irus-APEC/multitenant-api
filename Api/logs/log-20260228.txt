@@ -1,0 +1,248 @@
+2026-02-28 11:02:12.942 -04:00 [INF] User profile is available. Using 'C:\Users\charl\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-28 11:02:13.799 -04:00 [INF] Now listening on: http://localhost:5286
+2026-02-28 11:02:13.806 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-28 11:02:13.808 -04:00 [INF] Hosting environment: Development
+2026-02-28 11:02:13.809 -04:00 [INF] Content root path: C:\Users\charl\Desktop\Solution\Api
+2026-02-28 11:02:22.873 -04:00 [INF] Application is shutting down...
+2026-02-28 11:02:40.305 -04:00 [INF] User profile is available. Using 'C:\Users\charl\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-28 11:02:40.520 -04:00 [INF] Now listening on: http://localhost:5286
+2026-02-28 11:02:40.527 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-28 11:02:40.529 -04:00 [INF] Hosting environment: Development
+2026-02-28 11:02:40.530 -04:00 [INF] Content root path: C:\Users\charl\Desktop\Solution\Api
+2026-02-28 11:04:12.062 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger - null null
+2026-02-28 11:04:12.392 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger - 301 0 null 341.1093ms
+2026-02-28 11:04:12.405 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/index.html - null null
+2026-02-28 11:04:12.712 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/index.html - 200 null text/html;charset=utf-8 307.4301ms
+2026-02-28 11:04:12.841 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/swagger-ui-bundle.js - null null
+2026-02-28 11:04:12.841 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/swagger-ui-standalone-preset.js - null null
+2026-02-28 11:04:12.860 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/swagger-ui.css - null null
+2026-02-28 11:04:13.177 -04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-02-28 11:04:13.184 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/swagger-ui.css - 200 144929 text/css 324.3393ms
+2026-02-28 11:04:13.443 -04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-02-28 11:04:13.451 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/swagger-ui-standalone-preset.js - 200 312163 text/javascript 609.816ms
+2026-02-28 11:04:13.534 -04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-02-28 11:04:13.538 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/swagger-ui-bundle.js - 200 1061536 text/javascript 697.2682ms
+2026-02-28 11:04:13.910 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/v1/swagger.json - null null
+2026-02-28 11:04:14.117 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/favicon-32x32.png - null null
+2026-02-28 11:04:14.122 -04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-02-28 11:04:14.128 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/favicon-32x32.png - 200 628 image/png 11.0565ms
+2026-02-28 11:04:14.276 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 366.1894ms
+2026-02-28 11:04:46.486 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5286/Login - application/json 47
+2026-02-28 11:04:46.495 -04:00 [WRN] Failed to determine the https port for redirect.
+2026-02-28 11:04:46.782 -04:00 [INF] Executing endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 11:04:46.897 -04:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Api.Models.LoginRequestDto) on controller Api.Controllers.AuthController (Api).
+2026-02-28 11:04:47.210 -04:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-02-28 11:04:47.231 -04:00 [INF] Executed action Api.Controllers.AuthController.Login (Api) in 322.3442ms
+2026-02-28 11:04:47.233 -04:00 [INF] Executed endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 11:04:47.235 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5286/Login - 200 null application/json; charset=utf-8 749.2654ms
+2026-02-28 11:10:47.976 -04:00 [INF] Application is shutting down...
+2026-02-28 11:11:12.949 -04:00 [INF] User profile is available. Using 'C:\Users\charl\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-28 11:11:13.273 -04:00 [INF] Now listening on: http://localhost:5286
+2026-02-28 11:11:13.281 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-28 11:11:13.283 -04:00 [INF] Hosting environment: Development
+2026-02-28 11:11:13.285 -04:00 [INF] Content root path: C:\Users\charl\Desktop\Solution\Api
+2026-02-28 11:11:17.719 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/index.html - null null
+2026-02-28 11:11:17.947 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/index.html - 200 null text/html;charset=utf-8 230.2732ms
+2026-02-28 11:11:18.289 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/v1/swagger.json - null null
+2026-02-28 11:11:18.436 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 146.9995ms
+2026-02-28 11:13:56.548 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5286/api/Invoices - application/json 40
+2026-02-28 11:13:56.561 -04:00 [WRN] Failed to determine the https port for redirect.
+2026-02-28 11:13:56.670 -04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-02-28 11:13:56.678 -04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-28 11:13:56.681 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5286/api/Invoices - 401 0 null 132.0997ms
+2026-02-28 11:14:59.153 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5286/Login - application/json 47
+2026-02-28 11:14:59.165 -04:00 [INF] Executing endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 11:14:59.201 -04:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Api.Models.LoginRequestDto) on controller Api.Controllers.AuthController (Api).
+2026-02-28 11:14:59.308 -04:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-02-28 11:14:59.331 -04:00 [INF] Executed action Api.Controllers.AuthController.Login (Api) in 119.8496ms
+2026-02-28 11:14:59.332 -04:00 [INF] Executed endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 11:14:59.334 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5286/Login - 200 null application/json; charset=utf-8 181.1154ms
+2026-02-28 11:18:09.255 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/api/Invoices - null null
+2026-02-28 11:18:09.306 -04:00 [INF] Failed to validate the token.
+System.ArgumentException: IDX14102: Unable to decode the header '[PII of type 'Microsoft.IdentityModel.Logging.SecurityArtifact' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64Url encoded string.
+ ---> System.FormatException: IDX10400: Unable to decode: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64url encoded string.
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoder.Decode(ReadOnlySpan`1 strSpan, Span`1 output, Boolean needReplace, Int32 decodedLength)
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoder.Decode(ReadOnlySpan`1 strSpan, Span`1 output)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.CreateClaimSet(ReadOnlySpan`1 strSpan, Int32 startIndex, Int32 length, Boolean createHeaderClaimSet)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   --- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString, TryReadJwtClaim tryReadJwtClaim)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+2026-02-28 11:18:09.358 -04:00 [INF] Bearer was not authenticated. Failure message: IDX14102: Unable to decode the header '[PII of type 'Microsoft.IdentityModel.Logging.SecurityArtifact' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64Url encoded string.
+2026-02-28 11:18:09.362 -04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-02-28 11:18:09.366 -04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-28 11:18:09.367 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/api/Invoices - 401 0 null 112.4996ms
+2026-02-28 11:21:08.683 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/api/Invoices - null null
+2026-02-28 11:21:08.688 -04:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenMalformedException: IDX14310: JWE authentication tag is missing.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString, TryReadJwtClaim tryReadJwtClaim)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+2026-02-28 11:21:08.696 -04:00 [INF] Bearer was not authenticated. Failure message: IDX14310: JWE authentication tag is missing.
+2026-02-28 11:21:08.701 -04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-02-28 11:21:08.708 -04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-28 11:21:08.710 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/api/Invoices - 401 0 null 26.7051ms
+2026-02-28 11:21:11.962 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/api/Invoices - null null
+2026-02-28 11:21:11.965 -04:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenMalformedException: IDX14310: JWE authentication tag is missing.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString, TryReadJwtClaim tryReadJwtClaim)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+2026-02-28 11:21:11.988 -04:00 [INF] Bearer was not authenticated. Failure message: IDX14310: JWE authentication tag is missing.
+2026-02-28 11:21:11.992 -04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-02-28 11:21:11.995 -04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-28 11:21:11.999 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/api/Invoices - 401 0 null 37.0466ms
+2026-02-28 11:22:32.913 -04:00 [INF] Application is shutting down...
+2026-02-28 11:22:50.764 -04:00 [INF] User profile is available. Using 'C:\Users\charl\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-28 11:22:50.952 -04:00 [INF] Now listening on: http://localhost:5286
+2026-02-28 11:22:50.964 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-28 11:22:50.966 -04:00 [INF] Hosting environment: Development
+2026-02-28 11:22:50.967 -04:00 [INF] Content root path: C:\Users\charl\Desktop\Solution\Api
+2026-02-28 11:22:56.588 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/index.html - null null
+2026-02-28 11:22:56.874 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/index.html - 200 null text/html;charset=utf-8 287.7752ms
+2026-02-28 11:22:57.181 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/v1/swagger.json - null null
+2026-02-28 11:22:57.395 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 215.4956ms
+2026-02-28 11:23:24.157 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5286/Login - application/json 47
+2026-02-28 11:23:24.169 -04:00 [WRN] Failed to determine the https port for redirect.
+2026-02-28 11:23:24.210 -04:00 [INF] Executing endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 11:23:24.242 -04:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Api.Models.LoginRequestDto) on controller Api.Controllers.AuthController (Api).
+2026-02-28 11:23:24.341 -04:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-02-28 11:23:24.362 -04:00 [INF] Executed action Api.Controllers.AuthController.Login (Api) in 112.5429ms
+2026-02-28 11:23:24.364 -04:00 [INF] Executed endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 11:23:24.365 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5286/Login - 200 null application/json; charset=utf-8 207.9138ms
+2026-02-28 11:35:15.822 -04:00 [INF] Application is shutting down...
+2026-02-28 11:35:38.361 -04:00 [INF] User profile is available. Using 'C:\Users\charl\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-28 11:35:38.552 -04:00 [INF] Now listening on: http://localhost:5286
+2026-02-28 11:35:38.557 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-28 11:35:38.559 -04:00 [INF] Hosting environment: Development
+2026-02-28 11:35:38.560 -04:00 [INF] Content root path: C:\Users\charl\Desktop\Solution\Api
+2026-02-28 11:37:52.291 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/index.html - null null
+2026-02-28 11:37:52.686 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/index.html - 200 null text/html;charset=utf-8 398.2224ms
+2026-02-28 11:37:53.122 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/v1/swagger.json - null null
+2026-02-28 11:37:53.267 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 146.8773ms
+2026-02-28 11:38:13.498 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5286/Login - application/json 47
+2026-02-28 11:38:13.510 -04:00 [WRN] Failed to determine the https port for redirect.
+2026-02-28 11:38:13.552 -04:00 [INF] Executing endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 11:38:13.587 -04:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Api.Models.LoginRequestDto) on controller Api.Controllers.AuthController (Api).
+2026-02-28 11:38:13.698 -04:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-02-28 11:38:13.717 -04:00 [INF] Executed action Api.Controllers.AuthController.Login (Api) in 122.9138ms
+2026-02-28 11:38:13.720 -04:00 [INF] Executed endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 11:38:13.721 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5286/Login - 200 null application/json; charset=utf-8 222.6506ms
+2026-02-28 11:41:14.062 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/api/Invoices - null null
+2026-02-28 11:41:14.092 -04:00 [INF] Failed to validate the token.
+System.ArgumentException: IDX14102: Unable to decode the header '[PII of type 'Microsoft.IdentityModel.Logging.SecurityArtifact' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64Url encoded string.
+ ---> System.FormatException: IDX10400: Unable to decode: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64url encoded string.
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoder.Decode(ReadOnlySpan`1 strSpan, Span`1 output, Boolean needReplace, Int32 decodedLength)
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoder.Decode(ReadOnlySpan`1 strSpan, Span`1 output)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.CreateClaimSet(ReadOnlySpan`1 strSpan, Int32 startIndex, Int32 length, Boolean createHeaderClaimSet)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   --- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString, TryReadJwtClaim tryReadJwtClaim)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+2026-02-28 11:41:14.113 -04:00 [INF] Bearer was not authenticated. Failure message: IDX14102: Unable to decode the header '[PII of type 'Microsoft.IdentityModel.Logging.SecurityArtifact' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64Url encoded string.
+2026-02-28 11:41:14.122 -04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-02-28 11:41:14.130 -04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-28 11:41:14.131 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/api/Invoices - 401 0 null 68.8317ms
+2026-02-28 11:44:33.922 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/api/Invoices - null null
+2026-02-28 11:44:34.083 -04:00 [INF] Executing endpoint 'Api.Controllers.InvoicesController.Get (Api)'
+2026-02-28 11:44:34.100 -04:00 [INF] Route matched with {action = "Get", controller = "Invoices"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller Api.Controllers.InvoicesController (Api).
+2026-02-28 11:44:44.497 -04:00 [INF] Executed DbCommand (159ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [i].[Id], [i].[CreatedAt], [i].[Number], [i].[TenantId], [i].[Total]
+FROM [Invoices] AS [i]
+WHERE [i].[TenantId] = '11111111-1111-1111-1111-111111111111'
+ORDER BY [i].[CreatedAt] DESC
+2026-02-28 11:44:44.537 -04:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Domain.Entities.Invoice, Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-28 11:44:44.565 -04:00 [INF] Executed action Api.Controllers.InvoicesController.Get (Api) in 10460.0443ms
+2026-02-28 11:44:44.566 -04:00 [INF] Executed endpoint 'Api.Controllers.InvoicesController.Get (Api)'
+2026-02-28 11:44:44.585 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/api/Invoices - 200 null application/json; charset=utf-8 10662.2834ms
+2026-02-28 13:35:30.130 -04:00 [INF] Application is shutting down...
+2026-02-28 13:35:53.036 -04:00 [INF] User profile is available. Using 'C:\Users\charl\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-28 13:35:53.249 -04:00 [INF] Now listening on: http://localhost:5286
+2026-02-28 13:35:53.256 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-28 13:35:53.258 -04:00 [INF] Hosting environment: Development
+2026-02-28 13:35:53.259 -04:00 [INF] Content root path: C:\Users\charl\Desktop\Solution\Api
+2026-02-28 13:36:05.213 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/index.html - null null
+2026-02-28 13:36:05.420 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/index.html - 200 null text/html;charset=utf-8 208.322ms
+2026-02-28 13:36:05.832 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/v1/swagger.json - null null
+2026-02-28 13:36:05.965 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 135.8545ms
+2026-02-28 13:36:17.415 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5286/Login - application/json 47
+2026-02-28 13:36:17.446 -04:00 [WRN] Failed to determine the https port for redirect.
+2026-02-28 13:36:17.486 -04:00 [INF] Executing endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 13:36:17.519 -04:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Api.Models.LoginRequestDto) on controller Api.Controllers.AuthController (Api).
+2026-02-28 13:36:17.626 -04:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-02-28 13:36:17.649 -04:00 [INF] Executed action Api.Controllers.AuthController.Login (Api) in 120.2334ms
+2026-02-28 13:36:17.650 -04:00 [INF] Executed endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 13:36:17.652 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5286/Login - 200 null application/json; charset=utf-8 236.7001ms
+2026-02-28 13:40:14.590 -04:00 [INF] Application is shutting down...
+2026-02-28 13:40:32.830 -04:00 [INF] User profile is available. Using 'C:\Users\charl\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-28 13:40:33.050 -04:00 [INF] Now listening on: http://localhost:5286
+2026-02-28 13:40:33.065 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-28 13:40:33.067 -04:00 [INF] Hosting environment: Development
+2026-02-28 13:40:33.068 -04:00 [INF] Content root path: C:\Users\charl\Desktop\Solution\Api
+2026-02-28 13:40:36.529 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/index.html - null null
+2026-02-28 13:40:36.773 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/index.html - 200 null text/html;charset=utf-8 248.1864ms
+2026-02-28 13:40:37.125 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/v1/swagger.json - null null
+2026-02-28 13:40:37.284 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 159.7229ms
+2026-02-28 13:40:49.590 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5286/Login - application/json 47
+2026-02-28 13:40:49.601 -04:00 [WRN] Failed to determine the https port for redirect.
+2026-02-28 13:40:49.642 -04:00 [INF] Executing endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 13:40:49.673 -04:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Api.Models.LoginRequestDto) on controller Api.Controllers.AuthController (Api).
+2026-02-28 13:40:49.777 -04:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-02-28 13:40:49.795 -04:00 [INF] Executed action Api.Controllers.AuthController.Login (Api) in 115.8393ms
+2026-02-28 13:40:49.797 -04:00 [INF] Executed endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 13:40:49.801 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5286/Login - 200 null application/json; charset=utf-8 211.095ms
+2026-02-28 13:41:18.049 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/Me - null null
+2026-02-28 13:41:18.125 -04:00 [INF] Executing endpoint 'Api.Controllers.MeController.GetMe (Api)'
+2026-02-28 13:41:18.129 -04:00 [INF] Route matched with {action = "GetMe", controller = "Me"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetMe() on controller Api.Controllers.MeController (Api).
+2026-02-28 13:41:18.134 -04:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType4`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[<>f__AnonymousType3`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-02-28 13:41:18.140 -04:00 [INF] Executed action Api.Controllers.MeController.GetMe (Api) in 8.5947ms
+2026-02-28 13:41:18.141 -04:00 [INF] Executed endpoint 'Api.Controllers.MeController.GetMe (Api)'
+2026-02-28 13:41:18.159 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/Me - 200 null application/json; charset=utf-8 110.5569ms
+2026-02-28 13:48:33.018 -04:00 [INF] Application is shutting down...
+2026-02-28 13:48:57.855 -04:00 [INF] User profile is available. Using 'C:\Users\charl\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-28 13:48:58.046 -04:00 [INF] Now listening on: http://localhost:5286
+2026-02-28 13:48:58.053 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-28 13:48:58.054 -04:00 [INF] Hosting environment: Development
+2026-02-28 13:48:58.055 -04:00 [INF] Content root path: C:\Users\charl\Desktop\Solution\Api
+2026-02-28 13:49:05.167 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/index.html - null null
+2026-02-28 13:49:05.379 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/index.html - 200 null text/html;charset=utf-8 213.1639ms
+2026-02-28 13:49:05.773 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5286/swagger/v1/swagger.json - null null
+2026-02-28 13:49:05.908 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5286/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 136.3664ms
+2026-02-28 13:49:18.246 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5286/Login - application/json 47
+2026-02-28 13:49:18.257 -04:00 [WRN] Failed to determine the https port for redirect.
+2026-02-28 13:49:18.306 -04:00 [INF] Executing endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 13:49:18.339 -04:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Api.Models.LoginRequestDto) on controller Api.Controllers.AuthController (Api).
+2026-02-28 13:49:18.441 -04:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-02-28 13:49:18.461 -04:00 [INF] Executed action Api.Controllers.AuthController.Login (Api) in 114.7978ms
+2026-02-28 13:49:18.462 -04:00 [INF] Executed endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 13:49:18.463 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5286/Login - 200 null application/json; charset=utf-8 217.2188ms
+2026-02-28 13:50:19.993 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5286/Auth/CambioDeClave - application/json 79
+2026-02-28 13:50:20.065 -04:00 [INF] Executing endpoint 'Api.Controllers.AuthController.CambioDeClave (Api)'
+2026-02-28 13:50:20.070 -04:00 [INF] Route matched with {action = "CambioDeClave", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CambioDeClave(Api.Models.ChangePasswordDto) on controller Api.Controllers.AuthController (Api).
+2026-02-28 13:50:20.079 -04:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-02-28 13:50:20.084 -04:00 [INF] Executed action Api.Controllers.AuthController.CambioDeClave (Api) in 12.2538ms
+2026-02-28 13:50:20.086 -04:00 [INF] Executed endpoint 'Api.Controllers.AuthController.CambioDeClave (Api)'
+2026-02-28 13:50:20.087 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5286/Auth/CambioDeClave - 200 null application/json; charset=utf-8 93.7464ms
+2026-02-28 13:50:43.495 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5286/Login - application/json 47
+2026-02-28 13:50:43.504 -04:00 [INF] Executing endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 13:50:43.505 -04:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Api.Models.LoginRequestDto) on controller Api.Controllers.AuthController (Api).
+2026-02-28 13:50:43.509 -04:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-02-28 13:50:43.511 -04:00 [INF] Executed action Api.Controllers.AuthController.Login (Api) in 4.1155ms
+2026-02-28 13:50:43.513 -04:00 [INF] Executed endpoint 'Api.Controllers.AuthController.Login (Api)'
+2026-02-28 13:50:43.517 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5286/Login - 200 null application/json; charset=utf-8 21.58ms
+2026-02-28 13:55:13.129 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5286/OlvideMiClave - application/json 32
+2026-02-28 13:55:13.133 -04:00 [INF] Executing endpoint 'Api.Controllers.AuthController.OlvideMiClave (Api)'
+2026-02-28 13:55:13.136 -04:00 [INF] Route matched with {action = "OlvideMiClave", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult OlvideMiClave(Api.Models.ForgotPasswordDto) on controller Api.Controllers.AuthController (Api).
+2026-02-28 13:55:13.145 -04:00 [INF] OlvideMiClave solicitado para admin. ResetCode=6593F1
+2026-02-28 13:55:13.149 -04:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType2`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-02-28 13:55:13.153 -04:00 [INF] Executed action Api.Controllers.AuthController.OlvideMiClave (Api) in 13.9484ms
+2026-02-28 13:55:13.154 -04:00 [INF] Executed endpoint 'Api.Controllers.AuthController.OlvideMiClave (Api)'
+2026-02-28 13:55:13.156 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5286/OlvideMiClave - 200 null application/json; charset=utf-8 27.1581ms
+2026-02-28 14:13:10.608 -04:00 [INF] Application is shutting down...
